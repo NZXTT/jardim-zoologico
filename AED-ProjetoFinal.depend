@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1673091971 source:c:\users\tiago\desktop\escola\aed\aed-projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1673218486 source:e:\school\algoritmos e estrutura de dados aed\aed-projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+

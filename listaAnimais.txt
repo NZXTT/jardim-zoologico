@@ -1,0 +1,30 @@
+1 diogo cao 19 8 1 2022
+2 tiago gato 22 3 5 2021
+3 rafael elefante 29 5 7 2020
+4 bruno pinguim 45 6 4 2022
+5 sabino cao 34 6 8 1 2022
+6 chico gato 18 7 9 7 2020
+7 joao cao 67 5 3 2019
+8 luis elefante 75 8 1 2023
+9 goncalo cao 88 8 1 2023
+10 igor gato 24 8 1 2023
+11 joao gato 12 8 1 2022
+12 guilherme pinguim 67 12 5 2019
+13 tiago elefante 23 9 6 2020
+14 tomas cao 34 20 7 2020
+15 luis cao 56 26 8 2023
+16 joao girafa 19 8 1 2022
+17 diogo girafa 22 3 5 2021
+18 rafael elefante 29 5 7 2020
+19 diogo pinguim 45 6 4 2022
+20 rafael girafa 34 6 8 1 2022
+21 joao gato 18 7 9 7 2020
+22 rafael girafa 67 5 3 2019
+23 luis girafa 75 8 1 2023
+24 diogo girafa 88 8 1 2023
+25 rafael gato 24 8 1 2023
+26 rafael gato 12 8 1 2022
+27 diogo pinguim 67 12 5 2019
+28 tiago girafa 23 9 6 2020
+29 diogo cao 34 20 7 2020
+30 joao cao 56 26 8 2023
